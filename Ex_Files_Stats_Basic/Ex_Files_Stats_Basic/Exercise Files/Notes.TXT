@@ -1,7 +1,14 @@
 In world of statistics, we often use three tools to help us understand the center of our data. 
 
-First, the mean, which is the average of all the numbers in the data set. That's simply the sum of all the numbers divided by the count of the numbers. 
+First, the mean,=   average  = ( sum of all the numbers) /  the count of the numbers. 
 
 Second, the median, the middle value in the data set. Half the data points are bigger than the median, the other half are smaller. To determine the median, you do need to arrange all the numbers in order from lowest to highest or vice versa. 
 
-Third, we have the mode. That's the most common number in the data set. 
+Third, we have the mode. That's the most common number in the data set.
+
+Range : The range is one of our measures of variability. 
+Range = ( largest data point - smallest data point ) in the data set. 
+
+z-score = (data point -  mean) / standard deviation
+
+ 
